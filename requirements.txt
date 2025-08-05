@@ -1,0 +1,4 @@
+tf-bodypix[all]
+tensorflow
+opencv-python
+matplotlib
